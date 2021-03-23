@@ -15,12 +15,31 @@
 
 ## 文件上传漏洞
 
+- Pass-01
+- Pass-02
+- Pass-03
+- ...
+- Pass-19
+- Pass-20
+- Pass-21
+
+参加链接：
+
 - https://github.com/c0ny1/upload-labs
 
 ---
 
 ## XSS攻击
 
+- XSS案例：第1关
+- XSS案例：第2关
+- XSS案例：第3关
+- XSS案例：第4关
+- XSS案例：第5关
+- XSS案例：第6关
+- XSS案例：第7关
+- XSS案例：第8关
+- XSS案例：第9关
 
 ---
 
